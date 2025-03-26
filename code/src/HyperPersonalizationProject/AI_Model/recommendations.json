@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+      {
+        "id": 1,
+        "text": "We recommend product X for enhanced personalization."
+      },
+      {
+        "id": 2,
+        "text": "Product Y is ideal based on your feedback."
+      }
+    ]
+  }
